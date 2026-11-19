@@ -1,0 +1,8 @@
+*.exe binary
+*.pdf binary
+*.xlsx binary
+*.zip binary
+*.mat binary
+data/sources/*.json -text
+README.md text eol=lf
+dist/SHA256SUMS.json text eol=lf

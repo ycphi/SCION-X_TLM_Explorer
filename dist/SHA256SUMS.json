@@ -1,0 +1,11 @@
+{
+  "Version": "2.10",
+  "MATLABRuntime": "R2026a",
+  "PlotSHA256": "3dedf677d13eb098e3feb2c036104945ebd70921c420fdfd935bf572b1eb442d",
+  "Files": {
+    "installer/SCIONX_TLM_Setup.exe": "020093b71a768ca36cd821a1dcea85d11463ef36e8a75f418fc1d5a003920e29",
+    "SCIONX_TLM_Explorer_Portable.zip": "88b7883dea3640bff7a638650f10fa605126efb2ff224b1c8d6023a4431facf0",
+    "docs/SCION-X_TLM_程式設計流程圖.pdf": "74f15ae8fc026f46eea017b850eb9d560918bdb7894131fdae38778d1d529738",
+    "docs/SCION-X_TLM_GUI_使用手冊.pdf": "b7029c58dd844faee69708aa6d2c6d3f19a47479ab945f7b01d6b4e02e58c1f5"
+  }
+}
